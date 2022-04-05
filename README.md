@@ -1,2 +1,3 @@
-# ORT2Project
-ORT2 Project 
+# ORT2 - project
+Logisim application simulating computer system operation
+
